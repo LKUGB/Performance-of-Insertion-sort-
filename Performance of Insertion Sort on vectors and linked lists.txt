@@ -1,0 +1,4 @@
+From the graph, we may see that the insertion sort algorithm for vectors sort relatively slower than that for linked list when the size of vector / linked list is relatively small. When the data set reached
+the size of 20,000, the insertion sort algorithm for vectors sort relatively faster than that for linked list. Then, when the data size reached 40000, the sorting of the linked list is again faster than that of 
+the vector. Therefore, to conclude, the insertion sort algorithm sort faster for linked list when the data size is small, and sort faster for vectors when the data size is between 20000 and 40000. When 
+the data is above 40000, the insertion sort algorithm sorts the linked list faster than vectors.
